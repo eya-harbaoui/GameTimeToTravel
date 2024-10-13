@@ -41,24 +41,31 @@ Embark on an exciting journey around the globe with **Time to Travel** - a 2D ed
 
 #### Main Menu and Player Registration
 ![Main Menu and Player Registration](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img1.PNG)
-The game starts with an captivating main menu featuring a glowing Earth surrounded by airplanes. Players can choose to play, adjust settings, or seek help. The registration screen allows players to enter their name before embarking on their journey.
+(1) Main menu showcasing a glowing Earth with airplanes, featuring "play", "settings", and "Help" options.
+(2) Player registration screen where you can enter your name.
+(3) Navigation arrow to proceed to the next screen.
+(4) Game selection wheel with four mini-games to choose from.
 
 #### World Map and Quiz Interface
 ![World Map and Quiz Interface](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img2.PNG)
-Navigate an interactive world map to select countries for the quiz game. The quiz interface presents multiple-choice questions about the selected country, testing your geographical knowledge.
-
+(a) Interactive world map for country selection.
+(b) Quiz interface with multiple-choice questions.
+(c) Score display showing correct answers out of total questions.
+(e) "Back" button to return to the map.
 #### Mini-Game Selection
 ![Mini-Game Selection](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img3.PNG)
-Choose your adventure by selecting one of the four exciting mini-games. Each game is represented by an enticing "Play" button, inviting you to discover new challenges.
-
+(j) Selection screen for mini-games, each represented by a "Play" button with the game's title.
 #### Memory Match Game
 ![Memory Match Game](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img4.PNG)
-Test your memory with our card-matching game. Find pairs of cards featuring country-specific images against a backdrop of a serene coastline. Keep an eye on your progress and time as you play!
-
+(i) Score counter for the memory match game.
+(k) Grid of cards to be matched, featuring country-specific images.
+(l) Background image of a coastline, adding to the game's ambiance.
+(m) Timer display to track how long you've been playing.
 #### GeoScrabble Game
 ![GeoScrabble Game](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img5.PNG)
-Unscramble letters to spell out country names in this word puzzle game. The game features country flags and a user-friendly interface for dragging and dropping letters into place.
-
+(n) Letter tiles for spelling out country names.
+(o) Spaces for placing letter tiles to form the country name.
+Country flag display to provide a visual clue.
 ### 🛠️ Technical Details
 
 - **Engine**: Unity
