@@ -115,4 +115,4 @@ Get ready to stamp your virtual passport and explore the world! Whether you're a
 
 ---
 
-Developed with ❤️ by [Your Name/Team Name]
+Developed with ❤️
