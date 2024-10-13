@@ -41,34 +41,56 @@ Embark on an exciting journey around the globe with **Time to Travel** - a 2D ed
 
 #### Main Menu and Player Registration
 ![Main Menu and Player Registration](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img1.PNG)
+
 (1) Main menu showcasing a glowing Earth with airplanes, featuring "play", "settings", and "Help" options.
+
 (2) Player registration screen where you can enter your name.
+
 (3) Navigation arrow to proceed to the next screen.
+
 (4) Game selection wheel with four mini-games to choose from.
 
 #### World Map and Quiz Interface
 ![World Map and Quiz Interface](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img2.PNG)
+
 (a) Interactive world map for country selection.
+
 (b) Quiz interface with multiple-choice questions.
+
 (c) Score display showing correct answers out of total questions.
+
 (e) "Back" button to return to the map.
+
 #### Puzzle
 ![Puzzle](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img3.PNG)
+
 f) For the mini-game "Game 1," the player has the option to choose an image of a country to reconstruct.
+
 g) Select a piece from the set.
+
 h) Place the piece in its correct position using the left cursor until the complete image is formed.
+
 i) Click the back button if you want to return to the "spin" scene.
+
 #### Memory Match Game
 ![Memory Match Game](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img4.PNG)
 ![GeoScrabble Game](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img5.PNG)
+
 j) For the mini-game "Game 2," the player has the choice between two levels. Suppose they choose the first level; by clicking the play button, a series of sub-levels begins, where each scene contains a board with hidden images.
+
 k) Start by clicking on two cards with your mouse. If the two hidden images are identical, a point will be added to the score.
+
 l) The score increases with each correct attempt.
+
 m) A timer is integrated into the scene, which decreases by one second at regular intervals.
+
 #### GeoScrabble Game
 ![GeoScrabble Game](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img6.PNG)
+
 (n) Letter tiles for spelling out country names.
+
 (o) Spaces for placing letter tiles to form the country name.
+
 Country flag display to provide a visual clue.
 ### 🛠️ Technical Details
 
