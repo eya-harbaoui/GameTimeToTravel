@@ -97,7 +97,6 @@ Country flag display to provide a visual clue.
 - **Engine**: Unity
 - **Programming Language**: C#
 - **Graphics**: 2D
-- **Platform**: [Specify platforms here, e.g., Windows, macOS, iOS, Android]
 
 ### 🎓 Educational Value
 
