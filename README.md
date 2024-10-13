@@ -40,24 +40,23 @@ Embark on an exciting journey around the globe with **Time to Travel** - a 2D ed
 ### 🖼️ Game Visuals
 
 #### Main Menu and Player Registration
-![Main Menu and Player Registration](https://files.fm/u/h653yfh25r
-)
+![Main Menu and Player Registration](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img1.PNG)
 The game starts with an captivating main menu featuring a glowing Earth surrounded by airplanes. Players can choose to play, adjust settings, or seek help. The registration screen allows players to enter their name before embarking on their journey.
 
 #### World Map and Quiz Interface
-![World Map and Quiz Interface](https://files.fm/u/k9gy9nwzcm)
+![World Map and Quiz Interface](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img2.PNG)
 Navigate an interactive world map to select countries for the quiz game. The quiz interface presents multiple-choice questions about the selected country, testing your geographical knowledge.
 
 #### Mini-Game Selection
-![Mini-Game Selection](https://files.fm/u/35qzw97f2c)
+![Mini-Game Selection](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img3.PNG)
 Choose your adventure by selecting one of the four exciting mini-games. Each game is represented by an enticing "Play" button, inviting you to discover new challenges.
 
 #### Memory Match Game
-![Memory Match Game](https://files.fm/u/w8mmwdpt8s)
+![Memory Match Game](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img4.PNG)
 Test your memory with our card-matching game. Find pairs of cards featuring country-specific images against a backdrop of a serene coastline. Keep an eye on your progress and time as you play!
 
 #### GeoScrabble Game
-![GeoScrabble Game](https://files.fm/u/6e5e9dtbgg)
+![GeoScrabble Game](https://github.com/eya-harbaoui/GameTimeToTravel/blob/main/img5.PNG)
 Unscramble letters to spell out country names in this word puzzle game. The game features country flags and a user-friendly interface for dragging and dropping letters into place.
 
 ### 🛠️ Technical Details
